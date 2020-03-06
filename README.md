@@ -1,6 +1,6 @@
 # Binary reversing 101
 
-The exercise material accompanying the ECSP 2020 article of the same name.
+The exercise material accompanying the [ECSP 2020](https://overons.kpn/en/news/2020/kpn-publiceert-7e-editie-van-de-european-cyber-security-perspectives) article of the same name.
 
 ## 0-basics
 
